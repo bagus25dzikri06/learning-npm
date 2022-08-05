@@ -1,0 +1,23 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bagus25dzikri06/learning-npm.git"
+  },
+  "author": "bagus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagus25dzikri06/learning-npm/issues"
+  },
+  "homepage": "https://github.com/bagus25dzikri06/learning-npm#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
